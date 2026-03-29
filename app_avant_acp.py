@@ -217,7 +217,7 @@ else:
 # ---------------------------------------------------
 # Conclusion pédagogique
 # ---------------------------------------------------
-st.subheader("10. Conclusion pédagogique avant ACP")
+st.subheader("10. Conclusion avant ACP")
 st.success("""
 Constat :
 - le tableau brut est trop volumineux ;
